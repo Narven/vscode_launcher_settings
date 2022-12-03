@@ -1,0 +1,7 @@
+name: vscode_launch_settings
+description: VSCode Project Settings.
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.39 <0.1.0"
